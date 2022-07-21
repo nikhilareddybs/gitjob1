@@ -1,2 +1,2 @@
 # gitjob1
-this is my first github job
+this is my first global respository names as  gitjob1
